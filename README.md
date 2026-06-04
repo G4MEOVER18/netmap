@@ -314,3 +314,7 @@ Falls du dieses Tool nützlich findest:
 ---
 
 *Entwickelt mit Python 3 — keine externen Abhängigkeiten.*
+
+## Preview
+
+![CLI Preview](docs/screenshots/preview.png)
