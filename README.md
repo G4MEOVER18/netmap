@@ -311,6 +311,8 @@ Falls du dieses Tool nützlich findest:
 
 **Bitcoin:** `39vZWmnUwDReQ15BwqQXzyqVQ6U8LardEf`
 
+**Kontakt:** [g4me.over.18@gmail.com](mailto:g4me.over.18@gmail.com)
+
 ---
 
 *Entwickelt mit Python 3 — keine externen Abhängigkeiten.*
