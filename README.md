@@ -1,5 +1,7 @@
 # netmap
 
+[![CI](https://github.com/G4MEOVER18/netmap/actions/workflows/python-lint.yml/badge.svg)](https://github.com/G4MEOVER18/netmap/actions/workflows/python-lint.yml)
+
 **Reines Python-Netzwerk-Reconnaissance-Tool für Security Researcher**
 
 ```
